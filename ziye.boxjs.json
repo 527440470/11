@@ -114,9 +114,9 @@
                     "desc": "输入短信验证码，默认为0，不启动获取token功能"
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js",
+            "repo": "https://raw.githubusercontent.com/527440470/11/main/iboxpay.js",
             "icons": ["https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.png", "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.png"],
-            "script": "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js"
+            "script": "https://raw.githubusercontent.com/527440470/11/main/iboxpay.js"
         },
         {
             "id": "flw",
